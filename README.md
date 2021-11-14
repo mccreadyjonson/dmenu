@@ -1,1 +1,1 @@
-Gruvbox dark colors and Terminus font
+Gruvbox dark colors and Liberation Mono font
